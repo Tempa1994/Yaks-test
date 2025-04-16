@@ -1,2 +1,3 @@
-# Yaks-test
-Test for Yaks 
+# XReader
+
+Copyright (c) 2023 PubCoder srl. All rights reserved.
